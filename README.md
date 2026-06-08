@@ -96,7 +96,7 @@ This project demonstrates:
 
 ## Author
 
-Lasya Anjana
+Modili Lasya Anjana
 
 B.Tech Computer Science and Engineering
 
